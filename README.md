@@ -11,7 +11,7 @@
   * Complete an analysis of an Amazon customer review.
   
   
-*[Notebook](https://drive.google.com/drive/folders/1qx8h5TqduK-GTRND4qoUBrV53gcCykFF?usp=sharing)*
+*[Notebook for practice](https://drive.google.com/drive/folders/1qx8h5TqduK-GTRND4qoUBrV53gcCykFF?usp=sharing)*
 
   ## ***Resources***
   
@@ -26,7 +26,7 @@
   * Determine if reviews are biased using PySpark or SQL with the appropriate statistical methods.
   
   
-*[ETL & Analysis Notebook](https://drive.google.com/drive/folders/1xnlvjozsIPmJrQALU9nNKn2WUjCrE1_W?usp=sharing)*
+*[Challenge ETL & Analysis Notebook](https://drive.google.com/drive/folders/1xnlvjozsIPmJrQALU9nNKn2WUjCrE1_W?usp=sharing)*
 
   
 ## ***Summary***
