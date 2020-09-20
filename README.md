@@ -23,3 +23,5 @@
   * Determine if reviews are biased using PySpark or SQL with the appropriate statistical methods.
   
 ## ***Summary***
+
+In conclusion, the total reviews for vine program and non vine program with over 10 total votes are 56 and 16275 respectively with an average star rating of 4.36 and 3.65, while vine program and non vine program with over 10 helpful votes are 37 and 13,488. The analysis for vine reviews are limitless so there's a possibility of it being biased but with the analysis I performed it doesn't seem biased.
